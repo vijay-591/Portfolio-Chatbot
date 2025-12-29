@@ -40,20 +40,26 @@ python app.py
 
 ## Example Questions
 
-Tell me about yourself
+Tell me about yourself?
+
 What projects have you built?
+
 What are your technical skills?
+
 How can I contact you?
 
 ## Use Cases
 
 Personal portfolio enhancement
+
 Recruiter interaction tool
+
 Academic portfolio presentation
+
 AI chatbot demonstration project
 
 ## Author
 
-Vijay Kumar
-B.Tech – Computer Science Engineering
+Vijay Kumar,
+B.Tech – Computer Science Engineering,
 Aspiring AI / ML Engineer
