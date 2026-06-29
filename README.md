@@ -1,53 +1,65 @@
-# AI Portfolio Website with Personal Chatbot 🤖
+# AI Portfolio Chatbot
 
-A modern, professional **personal portfolio website** integrated with an **AI-style chatbot** that answers questions specifically about me — my skills, projects, education, and career goals.
+##  Project Overview
+The **AI Portfolio Chatbot** is an intelligent chatbot integrated into a personal portfolio website.  
+It can answer questions about **my education, skills, projects, experience, and contact details** in a conversational way.
 
-This project demonstrates frontend development, basic NLP concepts, and intelligent system design without relying on paid APIs or backend servers.
+This project helps recruiters, professors, and visitors interact with my portfolio more effectively.
 
----
+##  Features
 
-## 🚀 Live Demo
-👉 (Add your deployed GitHub Pages / Netlify link here)
+- Conversational AI chatbot
+- Answers questions about my profile and projects
+- Integrated with portfolio website
+- Clean and user-friendly interface
+- Real-time responses
+- Easy to customize with new data
 
----
+##  Technologies Used
+- Python
+- Natural Language Processing (NLP)
+- Machine Learning / AI
+- Flask / Streamlit (if applicable)
+- HTML & CSS (for portfolio integration)
+- JavaScript (if used)
 
-## 📌 Features
+##  Project Structure
 
-- ✅ Clean and professional portfolio website
-- ✅ AI-style chatbot embedded into the portfolio
-- ✅ Chatbot answers **only personal profile–related questions**
-- ✅ Prevents random or hallucinated responses
-- ✅ Fast, lightweight, and fully client-side
-- ✅ No backend, no API keys, no cost
-- ✅ Fully responsive design
-- ✅ Easy to customize and extend
+portfolio-chatbot
+│
+├── data/ # Portfolio data / training data
+├── models/ # Trained chatbot models
+├── src/ # Source code
+├── app.py # Main chatbot application
+├── requirements.txt # Dependencies
+└── README.md
 
----
+## Run the chatbot
 
-## 🧠 How the Chatbot Works
+python app.py
 
-The chatbot uses a **rule-based NLP approach**:
-- User input is processed in real-time using JavaScript
-- Keywords are matched against predefined personal data
-- Relevant and controlled responses are returned
-- If the question is outside scope, the bot politely refuses
+## Example Questions
 
-This design ensures:
-- Reliability  
-- Zero hallucinations  
-- Full control over responses  
+Tell me about yourself?
 
----
+What projects have you built?
 
-## 🛠️ Tech Stack
+What are your technical skills?
 
-- **HTML5** – Structure
-- **CSS3** – Styling & layout
-- **JavaScript (ES6)** – Chatbot logic
-- **No backend / No database**
-- **No external APIs**
+How can I contact you?
 
----
+## Use Cases
 
-## 📂 Project Structure
+Personal portfolio enhancement
 
+Recruiter interaction tool
+
+Academic portfolio presentation
+
+AI chatbot demonstration project
+
+## Author
+
+Vijay Kumar,
+B.Tech – Computer Science Engineering,
+Aspiring AI / ML Engineer
