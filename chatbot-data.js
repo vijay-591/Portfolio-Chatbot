@@ -5,15 +5,15 @@ answer: "My name is Vijay Kumar, an aspiring AI and ML engineer."
 },
 {
 keywords: ["about"],
-answer:"I am an aspiring AI and Machine Learning professional with strong hands-on experience in Python, data analysis, and intelligent system development. I am passionate about solving real-world problems through technology and continuously improving my technical and analytical skills. I enjoy building practical projects and aim to grow as a skilled professional in the AI and software development field."
+answer:"I'm a passionate learner and aspiring developer dedicated to creating innovative solutions through technology and continuous learning."
 },
 {
 keywords: ["skills", "technologies"],
-answer: "I am skilled in Python, Machine Learning, Artificial intelligence, NLP, Django, HTML, CSS, and JavaScript."
+answer: "I am skilled in Python, Data Analyst, SQL, MySQL, Power Bi, NumPy, Pandas, Machine Learning, Artificial intelligence, NLP, Django, HTML, CSS, and JavaScript."
 },
 {
 keywords: ["projects"],
-answer: "I have built AI chatbots, cyber attack detection systems, Job tracker, Classification of Channel Encoders, location to channel mapping and weather forecasting applications."
+answer: "I have built loan Risk Analysis, Empolyee Attrition, Phishing Detection using LLM, AI Chatbot, AI Portfolio Chatbot, Cyber Attack-detection Systems, Job tracker, Classification of Channel Encoders, location-to-channel mapping and weather forecasting applications."
 },
 {
 keywords: ["masters", "future"],
@@ -22,6 +22,18 @@ answer: "I plan to pursue a Master's degree in AI/ML, preferably in Germany or E
 {
 keywords: ["contact", "email"],
 answer: "contact_number : +91 91218 98283 ; mail : vijaykumarvangala4@gmail.com"
+},
+{
+keywords:["loan risk analysis", "risk analysis"],
+answer:"Developed a machine learning model to predict loan default risk using customer financial and credit history data."
+},
+{
+keywords:["Employee attrition analysis","attrition analysis"],
+answer:"Built a data analytics solution to identify key factors influencing employee attrition and support retention strategies."
+},
+{
+keywords:["Phishing detection using LLM", "phishing detection"],
+answer:"Developed an AI-powered phishing detection system using Large Language Models (LLMs) to identify and classify phishing emails and URLs with high accuracy."
 },
 {
 keywords: ["ai chatbot", "ai chatbot using nlp"],
